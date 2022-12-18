@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: #000;
+    color: #FFF;
+    font-family: comic sans ms;
+}
+
+div{
+    margin: 30px auto;
+    padding: 20px 20px 20px 10px;
+    border: double 10px #fff;
+    width: 80%;
+    display: flex;
+    align-items: center
+}
+img{
+    width: 300px;
+}
